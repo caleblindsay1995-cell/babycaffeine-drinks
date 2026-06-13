@@ -1,4 +1,7 @@
 [
+{"name":"Coffee Small (1 shot)","mg":64,"icon":"cup.and.saucer.fill","category":"Coffee"},
+{"name":"Coffee Regular (2 Shots)","mg":128,"icon":"cup.and.saucer.fill","category":"Coffee"},
+{"name":"Coffee Large (3 Shots)","mg":192,"icon":"cup.and.saucer.fill","category":"Coffee"},
   {"name":"Red Bull (250ml)","mg":80,"icon":"bolt.fill","category":"Energy Drink"},
   {"name":"Red Bull (355ml)","mg":114,"icon":"bolt.fill","category":"Energy Drink"},
   {"name":"Red Bull (473ml)","mg":151,"icon":"bolt.fill","category":"Energy Drink"},
@@ -50,9 +53,6 @@
   {"name":"Celsius (355ml)","mg":200,"icon":"bolt.fill","category":"Energy Drink"},
   {"name":"G Fuel Can (473ml)","mg":300,"icon":"bolt.fill","category":"Energy Drink"},
   {"name":"G Fuel Powder (1 serve)","mg":150,"icon":"bolt.fill","category":"Energy Drink"},
-  {"name":"Coffee Small (1 shot)","mg":64,"icon":"cup.and.saucer.fill","category":"Coffee"},
-  {"name":"Coffee Regular (2 Shots)","mg":128,"icon":"cup.and.saucer.fill","category":"Coffee"},
-  {"name":"Coffee Large (3 Shots)","mg":192,"icon":"cup.and.saucer.fill","category":"Coffee"},
   {"name":"Black Tea (240ml)","mg":47,"icon":"leaf.fill","category":"Tea"},
   {"name":"Green Tea (240ml)","mg":28,"icon":"leaf.fill","category":"Tea"},
   {"name":"Matcha Latte (240ml)","mg":55,"icon":"leaf.fill","category":"Tea"},
